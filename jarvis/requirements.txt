@@ -1,0 +1,9 @@
+openai-whisper
+ollama
+sounddevice
+PyAudio
+SpeechRecognition
+pyttsx3
+edge-tts
+pyautogui
+keyboard
