@@ -13,7 +13,7 @@ ASSISTANT_NAME = "Jarvis"
 HOTWORD = "jarvis"
 
 OLLAMA_HOST = "http://localhost:11434"
-OLLAMA_MODEL = "gemma3:1b"
+OLLAMA_MODEL = "gemma4:e2b-it-qat"
 OLLAMA_TIMEOUT_SECONDS = 30
 
 WHISPER_MODEL = "small"
